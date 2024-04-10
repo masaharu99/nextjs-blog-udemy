@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section>
         <p className={utilStyle.headingMd}>
-          Next.jsを勉強中です/SES企業で働いています/
+          Next.jsを勉強中です/SES企業で働いています/年内にはWEB系企業に転職します
         </p>
       </section>
 
